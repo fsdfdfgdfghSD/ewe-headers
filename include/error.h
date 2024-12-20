@@ -15,6 +15,8 @@
    along with this program. If not, see <https://www.gnu.org/licenses/>. */
 /* Written by netheround <myemail@email.com> */
 
+/* TODO: Make it compatible with windows, see: strerror_s */
+
 #ifndef ERROR_H_
 #define ERROR_H_
 
